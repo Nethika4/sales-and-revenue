@@ -1,0 +1,21 @@
+order_date,product,category,region,sales,revenue,profit
+2026-01-05,Widget A,Hardware,North,10,1500,450
+2026-01-07,Widget B,Hardware,South,8,1120,320
+2026-01-10,Service X,Software,East,5,2750,880
+2026-01-12,Service Y,Software,West,6,3300,990
+2026-01-15,Widget A,Hardware,East,12,1800,540
+2026-01-18,Widget C,Hardware,North,4,680,220
+2026-01-20,Service X,Software,South,7,3850,1260
+2026-01-22,Widget B,Hardware,West,9,1260,360
+2026-01-25,Service Z,Software,North,11,6050,1815
+2026-01-28,Widget C,Hardware,South,6,1020,330
+2026-02-01,Widget A,Hardware,West,14,2100,630
+2026-02-03,Service Y,Software,East,3,1650,495
+2026-02-06,Widget B,Hardware,North,7,980,280
+2026-02-08,Service Z,Software,South,9,4950,1485
+2026-02-10,Widget C,Hardware,East,5,850,275
+2026-02-14,Service X,Software,West,12,6600,1980
+2026-02-17,Widget A,Hardware,South,11,1650,495
+2026-02-20,Service Y,Software,North,8,4400,1320
+2026-02-23,Widget B,Hardware,East,3,420,120
+2026-02-26,Service Z,Software,West,10,5500,1650
